@@ -1,11 +1,11 @@
 # dBomb
 
 Установка для Termux : 
-pkg update
-pkg install python
-pkg install git
-pkg install pip
-git clone https://github.com/HackSometh1ng/dBomb/
-cd dBomb
-pip install -r requirements.txt
-python dBomb.py
+pkg update \n
+pkg install python \n
+pkg install git \n
+pkg install pip \n
+git clone https://github.com/HackSometh1ng/dBomb/ \n
+cd dBomb \n
+pip install -r requirements.txt \n
+python dBomb.py 
