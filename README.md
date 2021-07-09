@@ -1,6 +1,8 @@
 # dBomb
 Программа для флуда на дискорд серверах
 
+Создатель: https://www.youtube.com/channel/UCJpnYttDUAUVR-WDtGvWurQ/videos
+
 Установка для Termux : 
 
 pkg update 
