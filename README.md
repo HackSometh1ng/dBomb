@@ -18,6 +18,7 @@ pip install -r requirements.txt
 
 Для полноценной работы вам нужны токены пользователей
 Гайд по их получению : https://yougame.biz/threads/112392/
+
 Поместите токены в файл token.txt
 
 python dBomb.py
