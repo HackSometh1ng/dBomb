@@ -1,6 +1,7 @@
 # dBomb
 
-Установка для Termux : 
+Termux : 
+
 pkg update 
 
 pkg install python
@@ -15,4 +16,8 @@ cd dBomb
 
 pip install -r requirements.txt
 
-python dBomb.py 
+Для полноценной работы вам нужны токены пользователей
+Гайд по их получению : https://yougame.biz/threads/112392/
+Поместите токены в файл token.txt
+
+python dBomb.py
