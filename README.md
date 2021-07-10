@@ -26,6 +26,7 @@ pip install -r requirements.txt
 
 python dBomb.py
 
+
 Установка для Windows :
 
 Устанавливаем Python3 : https://www.python.org/downloads/
