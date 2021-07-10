@@ -25,3 +25,15 @@ pip install -r requirements.txt
 Поместите токены в файл token.txt
 
 python dBomb.py
+
+Установка для Windows :
+
+Устанавливаем Python3 : https://www.python.org/downloads/
+
+Скачиваем репозиторий, переходим в директорию с ним.
+Вводим команды:
+
+pip install -r requirements.txt
+
+Заменяем файл token.txt на свой файл с токенами.
+python dBomb.py
